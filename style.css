@@ -85,10 +85,7 @@ body {
   max-height: 100vh;
 }
 
-.content p {
-  padding-top: 20px;
-}
-
-.content ol {
+.content p,
+.content ul {
   padding-top: 20px;
 }
